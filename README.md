@@ -1,2 +1,5 @@
-# Security-Repo
-This Security repo is a repo where I will be uploading security documentation. This repo was made to help users who may need resources for their own security. However, it can be adapted for your own context if needed
+Hello Everyone, Welcome to my security repo. This is a security repo where I will upload security documentation. This documentation includes my security architecture, frameworks and protocols that I use. I have made this security repo to provide support for those who may want to improve their own personal security. It is also important to note that everything in this repo can be adapted to your own security needs and resources. This repo defines security as a evolving and threat-driven process to protect someone or something across physical, digital and social domains. If you wish to verify my work, all my security documentation has been signed with GPG. You can use the commands that will be below. I hope this security repo is useful to anyone who reads it.
+
+Verification commands:
+1. gpg --import public-key.asc - This imports the public key used to verify the security documentation
+2. gpg --verify "Architecture of Safety.pdf.asc" "Architecture of safety.pdf" - This command is specifically used for my security architecture. Make sure to adapt this command based on the document you are trying to verify. 
