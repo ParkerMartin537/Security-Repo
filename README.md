@@ -3,3 +3,13 @@ Hello Everyone, Welcome to my security repo. This is a security repo where I wil
 Verification commands:
 1. gpg --import public-key.asc - This imports the public key used to verify the security documentation
 2. gpg --verify "Architecture of Safety.pdf.asc" "Architecture of safety.pdf" - This command is specifically used for my security architecture. Make sure to adapt this command based on the document you are trying to verify. Make sure that the paths are correct to where you have the file stored on your device.
+
+Current Security Documentation as of 26th May 2026:
+1. Architecture of Safety
+2. Phishing Detection System
+3. Threat Actor Types 
+4. Vulnerability Management Framework
+5. Airport Device Handling Protocol
+6. Malware Infection Handling Protocol
+7. Risk Management Framework
+8. Online Information Handling Protocol
